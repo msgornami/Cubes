@@ -1,0 +1,6 @@
+{
+  "name": "Cubes 2048: Arena",
+  "description": "An action-packed real-time IO-style 2048 block snake survival game. Collect, merge, and consume online opponents in a dynamic battlefield with functional global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
